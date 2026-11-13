@@ -1,0 +1,7 @@
+Déposez ici les photos des prestations, avec ces noms exacts :
+maison.jpg
+aide-menage.jpg
+cuisine.jpg
+salle-de-bain.jpg
+sols.jpg
+menage-regulier.jpg

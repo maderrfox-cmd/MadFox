@@ -1,0 +1,2 @@
+Déposez ici les photos de la galerie, nommées 1.jpg, 2.jpg, 3.jpg... sans sauter de numéro.
+La photo d accueil se met dans le dossier images, nommée accueil.jpg
